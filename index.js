@@ -3,7 +3,7 @@ var userName = readlineSync.question("What is your Name? ")
 console.log("Hello "+userName+", Welcome to my football quiz.")
 console.log("Try to answer the following questions to test your football Knowledge.")
 console.log()
-console.log("Write the option you think is right.")
+console.log("Write the option 'a','b' or 'c' you think is right.")
 console.log()
 
 score=0
